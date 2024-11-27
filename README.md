@@ -27,5 +27,5 @@
 ## 📬 Contacto
 - **[Linkedin](https://www.linkedin.com/in/elena-l%C3%B3pez-f%C3%A9lix-55421330b/)**
 - **[Instagram](https://www.instagram.com/elena__lf11/?hl=es)**
-- **[Email]**: elenalf2005@gmail.com
+- **Email**: elenalf2005@gmail.com
 
