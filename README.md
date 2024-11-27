@@ -5,7 +5,7 @@
 ## 🚀 Tecnologías Utilizadas
 
 - **[Astro](https://astro.build/)**: Framework para la creación de sitios web rápidos y modernos.  
-- **Tailwind CSS**: Para un diseño responsivo y elegante.  
+- **[Tailwind CSS](https://tailwindcss.com/)**: Para un diseño responsivo y elegante.  
 
 ## 🖥️ Características
 
@@ -21,6 +21,10 @@
 │   ├── components/ # Componentes reutilizables como botones y encabezados.
 │   ├── layouts/    # Plantillas para las páginas principales.
 │   ├── pages/      # Cada página del sitio (Inicio, Proyectos, Contacto, etc.).
-│   ├── styles/     # Archivos de estilo personalizados.
-│   └── content/    # Colecciones de contenido dinámico (proyectos, blogs, etc.).
 └── astro.config.ts # Configuración de Astro.
+
+## 📬 Contacto
+- **[Linkedin](https://www.linkedin.com/in/elena-l%C3%B3pez-f%C3%A9lix-55421330b/)**
+- **[Instagram](https://www.instagram.com/elena__lf11/?hl=es)**
+- **[Email]**: elenalf2005@gmail.com
+
