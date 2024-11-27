@@ -22,6 +22,7 @@
 │   ├── layouts/    # Plantillas para las páginas principales.
 │   ├── pages/      # Cada página del sitio (Inicio, Proyectos, Contacto, etc.).
 └── astro.config.ts # Configuración de Astro.
+```
 
 ## 📬 Contacto
 - **[Linkedin](https://www.linkedin.com/in/elena-l%C3%B3pez-f%C3%A9lix-55421330b/)**
